@@ -32,11 +32,11 @@ Track expenses, manage budgets, set savings goals, and get intelligent financial
 
 | Dashboard (Dark Mode) | Expense Tracker |
 |:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/500x300/0f172a/3b82f6?text=Dashboard+Dark+Mode) | ![Expenses](https://via.placeholder.com/500x300/0f172a/22c55e?text=Expense+Tracker) |
+| ![Dashboard]([https://via.placeholder.com/500x300/0f172a/3b82f6?text=Dashboard+Dark+Mode](https://kommodo.ai/i/YMLuiLHeqiVXwVRkYuN5)) | ![Expenses]([https://via.placeholder.com/500x300/0f172a/22c55e?text=Expense+Tracker](https://kommodo.ai/i/JDNF93BqGnkPRo0T8jja)) |
 
 | AI Chatbot (FinBot) | Analytics & Charts |
 |:---:|:---:|
-| ![Chatbot](https://via.placeholder.com/500x300/0f172a/a855f7?text=AI+FinBot+Chatbot) | ![Analytics](https://via.placeholder.com/500x300/0f172a/f59e0b?text=Analytics+Charts) |
+| ![Chatbot]([https://via.placeholder.com/500x300/0f172a/a855f7?text=AI+FinBot+Chatbot](https://kommodo.ai/i/oUiIL9K0yNMOc2B9GHEj)) | ![Analytics]([https://via.placeholder.com/500x300/0f172a/f59e0b?text=Analytics+Charts](https://kommodo.ai/i/MrO0y2fGsXytRynU8FFz)) |
 
 </div>
 
